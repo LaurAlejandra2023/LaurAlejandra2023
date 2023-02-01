@@ -19,7 +19,7 @@
 🔭 I am currently learning software development through NODE at EAFIT.
 
 🌱I am learning and developing front end projects.
-My mother tongue is Spanish, but I am studying English to develop myself better in this profession.
+My native language is Spanish, but I am studying English to develop myself better in this profession.
 
 👯 I am looking to collaborate on projects that allow me to continue developing my skills.
 
